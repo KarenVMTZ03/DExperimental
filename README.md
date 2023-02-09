@@ -1,2 +1,2 @@
-# DExperimental
-Repositorio para almacenar trabajos y tareas del semestre
+# Diseño Experimental Curso
+**Repositorio para almacenar trabajos y tareas del semestre**
